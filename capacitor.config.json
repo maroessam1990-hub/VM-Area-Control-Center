@@ -1,0 +1,6 @@
+{
+  "appId": "com.townteam.vmarea",
+  "appName": "VM Area Control Center",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
